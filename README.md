@@ -1,2 +1,2 @@
-# Xperiments.DesignPatterns.Template
-A little implementation of Template pattern
+# Xperiments.DesignPatterns.TemplateMethod
+A little implementation of Template Method pattern
